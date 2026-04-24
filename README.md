@@ -44,6 +44,3 @@ Dataset/ – Raw and cleaned data files
 Linkdiln : www.linkedin.com/in/yash-panchal-461915250
 
 Dashboard: https://app.powerbi.com/links/nvVSRhojlc?ctid=3a20be13-aef0-44c7-be0a-377c208f6a15&pbi_source=linkShare&bookmarkGuid=2a8ad085-306f-43a6-b7e9-386dc745cc5c
-Dashboard/ – Power BI dashboard file (.pbix)
-Images/ – Dashboard screenshots
-README.md – Project documentation
