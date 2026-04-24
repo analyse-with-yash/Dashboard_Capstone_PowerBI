@@ -1,3 +1,5 @@
+# Dashboard_Supply_Chain_Management_PowerBI
+
 Capstone project analyzing revenue, profit, and sales performance using an interactive dashboard. Covers regional trends, customer segments, profit margins, and forecasts. Helps identify growth patterns, optimize pricing and discounts, and support data-driven business decisions.
 
 📊 Sales & Revenue Analytics Dashboard
